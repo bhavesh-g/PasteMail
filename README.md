@@ -17,6 +17,6 @@ There had been a number of occasions when i had copied something on my laptop an
 ### The whole process completes under 7 seconds(depending on your internet connection)
 
 ## Note:
-You must be logged in with the same email id on laptop, which is being used to setup smtp server in script.
+- You must be logged in with the same email id on laptop, which is being used to setup smtp server in script.
 For now works fine on Windows, soon will be adding support for Linux/Mac too with necessary changes.
-
+- Write sender' email and password in script, wherever mentioned and receiving email address also.
