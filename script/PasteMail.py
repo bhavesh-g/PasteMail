@@ -67,7 +67,7 @@ else:
 
     
     sender = "Sender's email address"
-    subject = "You have pasted on Air_Pasting"
+    subject = "You have pasted with PasteMail"
     session = smtplib.SMTP('smtp.gmail.com', 587)
     session.starttls()
     session.login(sender,'Password of sender email id here')
